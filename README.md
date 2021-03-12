@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepti-debug
-- 👀 I’m interested in creating software solutions. 
-- 🌱 I’m currently learning full stack mobile development
+- 👀 I’m interested in creating full stack mobile software solutions. 
+- 🌱 Currently working on my MAD (Modern Android Development) skills.
 - 📫 How to reach me - deeptirawat.iimt@gmail.com
 
 <!---
