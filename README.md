@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deepti-debug
-- 👀 I’m interested in creating full stack mobile software solutions. 
-- 🌱 Currently working on my MAD (Modern Android Development) skills.
-- 📫 How to reach me - deeptirawat.iimt@gmail.com
+- 👀 I’m interested in creating machine learning software solutions. 
+- 📫 Reach me via- deeptirawat.iimt@gmail.com
 
 <!---
 Deepti-debug/Deepti-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
