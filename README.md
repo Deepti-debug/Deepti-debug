@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepti-debug
-- 👀 I’m interested in creating machine learning software solutions. 
+- 👀 I’m a Researcher passionate about the domain of Computer Vision. 
 - 📫 Reach me via- deeptirawat.iimt@gmail.com
 
 <!---
